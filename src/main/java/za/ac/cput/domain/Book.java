@@ -1,5 +1,13 @@
 package za.ac.cput.domain;
 
+/**
+ * Book.java
+ *
+ * @author Cavan Swartz (221055835@mycput.ac.za)
+ * @version 1.0
+ * @since 2024-02-24
+ * @see <a href="https://github.com/hollow007/git-class-activity">Cavan Swartz' Github Repository</a>
+ */
 public class Book {
     private String title;
     private String author;
